@@ -1,4 +1,4 @@
-### 👋 Proud Dad, Average cricketer, software developer, Pluralsight author
+### 👋 Proud Dad, average cricketer, software developer, Pluralsight author
 
 
 <!--
