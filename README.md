@@ -1,6 +1,6 @@
 ## 👋 Proud Dad, average cricketer, software developer, slow runner
 
-[Twitter](https://twitter.com/chrisdobby)   [LinkedIn](https://www.linkedin.com/in/chris-dobson-941ab530/)   [Strava](https://www.strava.com/athletes/chrisdobby)
+[Twitter](https://twitter.com/chrisdobby)&emsp;&emsp;[LinkedIn](https://www.linkedin.com/in/chris-dobson-941ab530/)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
 
 ### Pluralsight guides
 * [Profiling Performance with React Developer Tools](https://www.pluralsight.com/guides/profiling-performance-with-react-developer-tools)
