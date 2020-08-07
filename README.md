@@ -13,6 +13,7 @@
 ### Pluralsight guides
 * [Profiling Performance with React Developer Tools](https://www.pluralsight.com/guides/profiling-performance-with-react-developer-tools)
 * [Debugging Components with React Developer Tools](https://www.pluralsight.com/guides/debugging-components-with-react-developer-tools)
+* [Building a Simple React Weather App](https://app.pluralsight.com/guides/building-a-simple-react-weather-app)
 * [Code Splitting in a React Application](https://www.pluralsight.com/guides/code-splitting-in-a-react-application)
 * [Testing Asynchronous Functionality in a React Component](https://www.pluralsight.com/guides/testing-asynchronous-functionality-react-component)
 * [Using React Refs in Typescript](https://www.pluralsight.com/guides/using-react-refs-typescript)
