@@ -10,8 +10,6 @@
 <img height="40" src="https://fsharp.org/img/logo/fsharp.svg" alt="F# logo"/>
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a6313967-3803-4561-a384-6bed7f96f37f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ### Pluralsight guides
 * [Profiling Performance with React Developer Tools](https://www.pluralsight.com/guides/profiling-performance-with-react-developer-tools)
 * [Debugging Components with React Developer Tools](https://www.pluralsight.com/guides/debugging-components-with-react-developer-tools)
