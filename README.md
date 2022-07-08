@@ -10,7 +10,10 @@
 <img height="40" src="https://fsharp.org/img/logo/fsharp.svg" alt="F# logo"/>
 </div>
 
+<div>
 <img src="https://polywork-production.imgix.net/j5a8wootsgcsauypjzzoldalv3cz?ixlib=rails-4.2.0&w=50&auto=format&dpr=2" />
+</div>
+
 ### Pluralsight guides
 * [Profiling Performance with React Developer Tools](https://www.pluralsight.com/guides/profiling-performance-with-react-developer-tools)
 * [Debugging Components with React Developer Tools](https://www.pluralsight.com/guides/debugging-components-with-react-developer-tools)
