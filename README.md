@@ -10,8 +10,10 @@
 <img height="40" src="https://fsharp.org/img/logo/fsharp.svg" alt="F# logo"/>
 </div>
 
-[![AWS Certified Solutions Architect Pro](https://polywork-production.imgix.net/j5a8wootsgcsauypjzzoldalv3cz?ixlib=rails-4.2.0&w=50&auto=format&dpr=2)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
-[![AWS Certified Devveloper Associate](https://polywork-production.imgix.net/rms9oxzu7ef53im89rkkcetm4bpm?ixlib=rails-4.2.0&w=50&auto=format&dpr=2)](https://www.credly.com/badges/c02613ec-ae37-4bcd-888b-1815159bc2a4/public_url)
+
+[![AWS Certified Solutions Architect Pro](https://polywork-production.imgix.net/j5a8wootsgcsauypjzzoldalv3cz?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
+[![AWS Certified Developer Associate](https://polywork-production.imgix.net/3sj4dg6nfswjlqzhe95zsgad2prp?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/c02613ec-ae37-4bcd-888b-1815159bc2a4/public_url)
+[![AWS Certified Solutions Architect Associate](https://polywork-production.imgix.net/mb5yt0io3edpt0468z521gv08kb4?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
 
 ### Pluralsight guides
 * [Profiling Performance with React Developer Tools](https://www.pluralsight.com/guides/profiling-performance-with-react-developer-tools)
