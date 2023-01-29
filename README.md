@@ -1,6 +1,6 @@
 ## 👋 Proud Dad, average cricketer, software developer, slow runner
 
-[LinkedIn](https://www.linkedin.com/in/chrisdobby/)&emsp;&emsp;[Twitter](https://twitter.com/chrisdobby)&emsp;&emsp;[CV](https://cv.chrisdobby.dev)&emsp;&emsp;[Polywork](https://chrisdobby.dev)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
+[LinkedIn](https://www.linkedin.com/in/chrisdobby/)&emsp;&emsp;[Mastodon](https://hachyderm.io/@chrisdobby)&emsp;&emsp;[Twitter](https://twitter.com/chrisdobby)&emsp;&emsp;[CV](https://cv.chrisdobby.dev)&emsp;&emsp;[Polywork](https://chrisdobby.dev)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
 
 <div style="display:flex">
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript logo"/>
