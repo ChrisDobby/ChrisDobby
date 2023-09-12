@@ -16,6 +16,9 @@
 [![AWS Certified Developer Associate](https://polywork-production.imgix.net/3sj4dg6nfswjlqzhe95zsgad2prp?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/c02613ec-ae37-4bcd-888b-1815159bc2a4/public_url)
 [![AWS Certified Solutions Architect Associate](https://polywork-production.imgix.net/mb5yt0io3edpt0468z521gv08kb4?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
 
+### Posts
+* [Keeping supporters up to date using AWS events and Web Push](https://chrisdobby.dev/series/aws-events-and-web-push)
+
 ### Pluralsight guides
 * [Profiling Performance with React Developer Tools](https://www.pluralsight.com/guides/profiling-performance-with-react-developer-tools)
 * [Debugging Components with React Developer Tools](https://www.pluralsight.com/guides/debugging-components-with-react-developer-tools)
