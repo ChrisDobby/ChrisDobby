@@ -17,7 +17,7 @@
 [![AWS Certified Solutions Architect Associate](https://polywork-production.imgix.net/mb5yt0io3edpt0468z521gv08kb4?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
 
 ### Posts
-* [Accelerating AWS deployments]([https://chrisdobby.dev/series/aws-events-and-web-push](https://medium.com/@chrd/accelerating-aws-deployments-69faed925bc9))
+* [Accelerating AWS deployments](https://chrisdobby.dev/series/aws-events-and-web-push](https://medium.com/@chrd/accelerating-aws-deployments-69faed925bc9)
 * [Keeping supporters up to date using AWS events and Web Push](https://chrisdobby.dev/series/aws-events-and-web-push)
 
 ### Pluralsight guides
