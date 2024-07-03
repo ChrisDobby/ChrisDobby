@@ -2,14 +2,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/chrisdobby/)&emsp;&emsp;[Mastodon](https://hachyderm.io/@chrisdobby)&emsp;&emsp;[Twitter](https://twitter.com/chrisdobby)&emsp;&emsp;[CV](https://cv.chrisdobby.dev)&emsp;&emsp;[Polywork](https://chrisdobby.dev)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
 
-<div style="display:flex">
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript logo"/>
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/400px-Node.js_logo.svg.png" alt="node logo"/>
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/400px-React-icon.svg.png" alt="react logo"/>
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/40px-JavaScript-logo.png" alt="javascript logo"/>
-<img height="40" src="https://fsharp.org/img/logo/fsharp.svg" alt="F# logo"/>
-</div>
-
 
 [![AWS Certified Solutions Architect Pro](https://polywork-production.imgix.net/j5a8wootsgcsauypjzzoldalv3cz?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
 [![AWS Certified Devops Engineer Pro](https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/2619c23d-a69e-4d76-93db-3c57dd74d4e2/public_url)
