@@ -11,6 +11,7 @@
 [![AWS Certified Solutions Architect Associate](https://polywork-production.imgix.net/mb5yt0io3edpt0468z521gv08kb4?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
 
 ### Speaking
+* [AWS No Code Challenge - AWS ComSum](https://www.youtube.com/watch?v=plq0F90zKqI)
 * [Papercall profile](https://www.papercall.io/speakers/chrisdobby)
 * [Sessionize profile](https://sessionize.com/chrisdobby/)
   
