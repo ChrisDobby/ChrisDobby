@@ -15,7 +15,7 @@
 * [Papercall profile](https://www.papercall.io/speakers/chrisdobby)
 * [Sessionize profile](https://sessionize.com/chrisdobby/)
   
-### Posts
+### Articles
 * [An Adventure in testing Step Functions](https://medium.com/@chrd/an-adventure-in-testing-step-functions-f26e1246d03d)
 * [Accelerating AWS deployments](https://medium.com/@chrd/accelerating-aws-deployments-69faed925bc9)
 * [Keeping supporters up to date using AWS events and Web Push](https://chrisdobby.dev/series/aws-events-and-web-push)
