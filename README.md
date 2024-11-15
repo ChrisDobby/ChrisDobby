@@ -1,6 +1,6 @@
 ## 👋 Proud Dad, average cricketer, software developer, slow runner
 
-[LinkedIn](https://www.linkedin.com/in/chrisdobby/)&emsp;&emsp;[Twitter](https://twitter.com/chrisdobby)&emsp;&emsp;[CV](https://cv.chrisdobby.dev)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
+[LinkedIn](https://www.linkedin.com/in/chrisdobby/)&emsp;&emsp;[Bluesky](https://bsky.app/profile/chrisdobby.bsky.social)&emsp;&emsp;[CV](https://cv.chrisdobby.dev)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
 
 
 [![AWS Certified Solutions Architect Pro](https://polywork-production.imgix.net/j5a8wootsgcsauypjzzoldalv3cz?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
