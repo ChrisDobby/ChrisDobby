@@ -19,6 +19,7 @@
 * [An Adventure in testing Step Functions - time travel and mocking](https://medium.com/@chrd/an-adventure-in-testing-step-functions-part-2-8f521a68a019)
 * [An Adventure in testing Step Functions](https://medium.com/@chrd/an-adventure-in-testing-step-functions-f26e1246d03d)
 * [Accelerating AWS deployments](https://medium.com/@chrd/accelerating-aws-deployments-69faed925bc9)
+* [Keeping supporters up to date using AWS events and Web Push - part 4](https://chrisdobby.dev/keeping-supporters-up-to-date-using-aws-events-and-web-push-part-4-bac616cfaf35)
 * [Keeping supporters up to date using AWS events and Web Push - part 3](https://chrisdobby.dev/keeping-supporters-up-to-date-using-aws-events-and-web-push-part-3-0846e9abfebf)
 * [Keeping supporters up to date using AWS events and Web Push - part 2](https://chrisdobby.dev/keeping-supporters-up-to-date-using-aws-events-and-web-push-part-2-f8d93c356c41)
 * [Keeping supporters up to date using AWS events and Web Push - part 1](https://chrisdobby.dev/keeping-supporters-up-to-date-using-aws-events-and-web-push-part-1-98bdb8b1a29e)
