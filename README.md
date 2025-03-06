@@ -2,6 +2,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/chrisdobby/)&emsp;&emsp;[Bluesky](https://bsky.app/profile/chrisdobby.dev)&emsp;&emsp;[CV](https://cv.chrisdobby.dev)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
 
+![Community Builder LinkedIn 1400px](https://github.com/user-attachments/assets/f9a7a87b-2735-4a74-aa6e-c5b439643ffd)
+
 
 [![AWS Certified Solutions Architect Pro](https://polywork-production.imgix.net/j5a8wootsgcsauypjzzoldalv3cz?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
 [![AWS Certified Devops Engineer Pro](https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/2619c23d-a69e-4d76-93db-3c57dd74d4e2/public_url)
