@@ -27,21 +27,6 @@
 * [Keeping supporters up to date using AWS events and Web Push - part 2](https://chrisdobby.dev/keeping-supporters-up-to-date-using-aws-events-and-web-push-part-2-f8d93c356c41)
 * [Keeping supporters up to date using AWS events and Web Push - part 1](https://chrisdobby.dev/keeping-supporters-up-to-date-using-aws-events-and-web-push-part-1-98bdb8b1a29e)
 
-### Pluralsight guides
-* [Profiling Performance with React Developer Tools](https://www.pluralsight.com/guides/profiling-performance-with-react-developer-tools)
-* [Debugging Components with React Developer Tools](https://www.pluralsight.com/guides/debugging-components-with-react-developer-tools)
-* [Building a Simple React Weather App](https://app.pluralsight.com/guides/building-a-simple-react-weather-app)
-* [Drag and Drop in React Components](https://www.pluralsight.com/guides/drag-and-drop-react-components)
-* [Code Splitting in a React Application](https://www.pluralsight.com/guides/code-splitting-in-a-react-application)
-* [Testing Asynchronous Functionality in a React Component](https://www.pluralsight.com/guides/testing-asynchronous-functionality-react-component)
-* [Using React Refs in Typescript](https://www.pluralsight.com/guides/using-react-refs-typescript)
-* [Render on Window Resize in React](https://www.pluralsight.com/guides/render-window-resize-react)
-* [Component Composition in React](https://www.pluralsight.com/guides/react-component-composition/)
-* [Reacting to Prop Changes in a React Component](https://www.pluralsight.com/guides/prop-changes-in-react-component)
-* [Higher Order Composition with Typescript for React](https://www.pluralsight.com/guides/higher-order-composition-typescript-react)
-* [React Todo List](https://www.pluralsight.com/guides/react-todo-list-part-1/)
-* [Using the React Context API](https://www.pluralsight.com/guides/react-context-api)
-
 <!--
 **ChrisDobby/ChrisDobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
