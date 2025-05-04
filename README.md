@@ -15,7 +15,6 @@
 
 ### Speaking
 * [AWS No Code Challenge - AWS ComSum](https://www.youtube.com/watch?v=plq0F90zKqI)
-* [Papercall profile](https://www.papercall.io/speakers/chrisdobby)
 * [Sessionize profile](https://sessionize.com/chrisdobby/)
   
 ### Articles
