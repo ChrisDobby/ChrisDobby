@@ -15,6 +15,7 @@
 
 ### Speaking
 * [AWS No Code Challenge - AWS ComSum](https://www.youtube.com/watch?v=plq0F90zKqI)
+* [Updating supporters serverless style](https://sessionize.com/s/chrisdobby/updating-supporters-serverless-style/142312)
 * [Streamlining an event drivent architecture - a real world transformation](https://sessionize.com/s/chrisdobby/streamlining-an-event-driven-architecture-a-real-w/125543)
 * [AWS No Code Challenge](https://sessionize.com/s/chrisdobby/aws-no-code-challenge/96963)
 * [Sessionize profile](https://sessionize.com/chrisdobby/)
