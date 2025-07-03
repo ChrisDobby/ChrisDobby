@@ -11,6 +11,7 @@
 [<img src="https://images.credly.com/size/120x120/images/0c9caa8e-af2a-472d-8412-096b8bb8ff6b/image.png" width="120" height="120" />](https://www.credly.com/badges/b3495fe1-d2f6-402a-8193-cdb86b0761e7/public_url)
 [![AWS Certified Developer Associate](https://polywork-production.imgix.net/3sj4dg6nfswjlqzhe95zsgad2prp?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/c02613ec-ae37-4bcd-888b-1815159bc2a4/public_url)
 [![AWS Certified Solutions Architect Associate](https://polywork-production.imgix.net/mb5yt0io3edpt0468z521gv08kb4?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
+[![AWS Certified AI Practitioner](https://images.credly.com/size/120x120/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png)](https://www.credly.com/badges/1d69786c-640b-43c8-9d09-36a38a9fb7c1/public_url)
 [![AWS Certified AI Practitioner](https://images.credly.com/size/120x120/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/67fbd247-af14-4041-a915-7c259eea4966/public_url)
 
 ### Speaking
