@@ -22,6 +22,7 @@
 * [Sessionize profile](https://sessionize.com/chrisdobby/)
   
 ### Articles
+* [A local Lambda development environment](https://chrisdobby.dev/a-local-lambda-development-environment-b34929eddecb)
 * [An Adventure in testing Step Functions - time travel and mocking](https://medium.com/@chrd/an-adventure-in-testing-step-functions-part-2-8f521a68a019)
 * [An Adventure in testing Step Functions](https://medium.com/@chrd/an-adventure-in-testing-step-functions-f26e1246d03d)
 * [Accelerating AWS deployments](https://medium.com/@chrd/accelerating-aws-deployments-69faed925bc9)
