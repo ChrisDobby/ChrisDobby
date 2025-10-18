@@ -16,7 +16,7 @@
 [![AWS Certified AI Practitioner](https://images.credly.com/size/120x120/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/67fbd247-af14-4041-a915-7c259eea4966/public_url)
 
 ### Speaking
-* [Streamlining an event drivent architecture - AWS ComSum 2025](https://youtu.be/9GhcckSaluY?si=zIuWoSqulN88TsLk)
+* [Streamlining an event driven architecture - AWS ComSum 2025](https://youtu.be/9GhcckSaluY?si=zIuWoSqulN88TsLk)
 * [AWS No Code Challenge - AWS ComSum 2024](https://www.youtube.com/watch?v=plq0F90zKqI)
 * [Sessionize profile](https://sessionize.com/chrisdobby/)
 * [Streamlining an event drivent architecture - a real world transformation](https://sessionize.com/s/chrisdobby/streamlining-an-event-driven-architecture-a-real-w/125543)
