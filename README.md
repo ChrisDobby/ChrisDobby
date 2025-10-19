@@ -23,6 +23,7 @@
 * [AWS No Code Challenge](https://sessionize.com/s/chrisdobby/aws-no-code-challenge/96963)
   
 ### Articles
+* [Localstack in VSCode](https://chrisdobby.dev/localstack-in-vscode-a8a9e8d53d10)
 * [A local Lambda development environment](https://chrisdobby.dev/a-local-lambda-development-environment-b34929eddecb)
 * [An Adventure in testing Step Functions - time travel and mocking](https://medium.com/@chrd/an-adventure-in-testing-step-functions-part-2-8f521a68a019)
 * [An Adventure in testing Step Functions](https://medium.com/@chrd/an-adventure-in-testing-step-functions-f26e1246d03d)
