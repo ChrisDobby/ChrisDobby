@@ -24,7 +24,7 @@
 * [AWS No Code Challenge](https://sessionize.com/s/chrisdobby/aws-no-code-challenge/96963)
   
 ### Articles
-* [Workflow orchestration with Lambda Durable Functions — part 1]([https://chrisdobby.dev/localstack-in-vscode-a8a9e8d53d10](https://chrisdobby.dev/workflow-orchestration-with-lambda-durable-functions-part-1-3892a5a5a7aa))
+* [Workflow orchestration with Lambda Durable Functions — part 1](https://chrisdobby.dev/workflow-orchestration-with-lambda-durable-functions-part-1-3892a5a5a7aa)
 * [Localstack in VSCode](https://chrisdobby.dev/localstack-in-vscode-a8a9e8d53d10)
 * [A local Lambda development environment](https://chrisdobby.dev/a-local-lambda-development-environment-b34929eddecb)
 * [An Adventure in testing Step Functions - time travel and mocking](https://medium.com/@chrd/an-adventure-in-testing-step-functions-part-2-8f521a68a019)
