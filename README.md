@@ -9,8 +9,7 @@
 [![AWS Certified Devops Engineer Pro](https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/2619c23d-a69e-4d76-93db-3c57dd74d4e2/public_url)
 [![AWS Certified Gen AI Developer Pro](https://github.com/user-attachments/assets/5cb90a3a-bd04-4db7-972b-6c1c55f2b08e)](https://www.credly.com/badges/e49887e3-d2ac-455a-a873-08294e5a8f85/public_url)
 [![AWS Certified Gen AI Developer Pro early adopter](https://github.com/user-attachments/assets/dda150eb-9290-4742-8f4f-346c658fdfa5)](https://www.credly.com/badges/8354aa51-18fe-49ae-84ef-2e207771b2c5/public_url)
-[![AWS Certified Security – Specialty](https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)]
-(https://www.credly.com/badges/b3495fe1-d2f6-402a-8193-cdb86b0761e7/public_url)
+[![AWS Certified Security – Specialty](https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](https://www.credly.com/badges/b3495fe1-d2f6-402a-8193-cdb86b0761e7/public_url)
 [![AWS Certification SME - Associate](https://images.credly.com/images/0c9caa8e-af2a-472d-8412-096b8bb8ff6b/image.png)](https://www.credly.com/badges/cf16035b-a40d-41a4-8d04-3703db9ea43d/public_url)
 [![AWS Certified Developer Associate](https://polywork-production.imgix.net/3sj4dg6nfswjlqzhe95zsgad2prp?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/c02613ec-ae37-4bcd-888b-1815159bc2a4/public_url)
 [![AWS Certified Solutions Architect Associate](https://polywork-production.imgix.net/mb5yt0io3edpt0468z521gv08kb4?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
