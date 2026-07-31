@@ -18,6 +18,7 @@
 [![AWS Certified Data Engineer Associate](https://images.credly.com/size/120x120/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/080e4a9c-4f8f-46b9-9f10-5eb97b50d22e/public_url)
 [![AWS Certified CloudOps Engineer Associate](https://images.credly.com/size/120x120/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/91b848b7-65ba-48c4-b673-2debaaa608f3/public_url)
 [![AWS Certified AI Practitioner](https://images.credly.com/size/120x120/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/67fbd247-af14-4041-a915-7c259eea4966/public_url)
+[![AWS Certified Cloud Practitioner](https://github.com/user-attachments/assets/4a41a3e5-ab7f-4819-9d3b-d243fba6a364)](https://www.credly.com/badges/e1ee2820-a3f0-4f92-8225-52b876b56287/public_url)
 
 ### Speaking
 * [Streamlining an event driven architecture - AWS ComSum 2025](https://youtu.be/9GhcckSaluY?si=zIuWoSqulN88TsLk)
