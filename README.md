@@ -4,7 +4,6 @@
 
 ![Community Builder LinkedIn 1400px](https://github.com/user-attachments/assets/f9a7a87b-2735-4a74-aa6e-c5b439643ffd)
 
-
 [![AWS Certified Solutions Architect Pro](https://polywork-production.imgix.net/j5a8wootsgcsauypjzzoldalv3cz?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
 [![AWS Certified Devops Engineer Pro](https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/2619c23d-a69e-4d76-93db-3c57dd74d4e2/public_url)
 [![AWS Certified Gen AI Developer Pro](https://github.com/user-attachments/assets/5cb90a3a-bd04-4db7-972b-6c1c55f2b08e)](https://www.credly.com/badges/e49887e3-d2ac-455a-a873-08294e5a8f85/public_url)
@@ -16,7 +15,7 @@
 [![AWS Certified Solutions Architect Associate](https://polywork-production.imgix.net/mb5yt0io3edpt0468z521gv08kb4?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
 [![AWS Certified Machine Learning Engineer Associate](https://images.credly.com/size/120x120/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png)](https://www.credly.com/badges/1d69786c-640b-43c8-9d09-36a38a9fb7c1/public_url)
 [![AWS Certified Data Engineer Associate](https://images.credly.com/size/120x120/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/080e4a9c-4f8f-46b9-9f10-5eb97b50d22e/public_url)
-[![AWS Certified CloudOps Engineer Associate](https://images.credly.com/size/120x120/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/91b848b7-65ba-48c4-b673-2debaaa608f3/public_url)
+[![AWS Certified CloudOps Engineer Associate](https://github.com/user-attachments/assets/0ab1cacd-b02d-4cbb-b3ca-54d0879cdca7)](https://www.credly.com/badges/91b848b7-65ba-48c4-b673-2debaaa608f3/public_url)
 [![AWS Certified AI Practitioner](https://images.credly.com/size/120x120/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/67fbd247-af14-4041-a915-7c259eea4966/public_url)
 [![AWS Certified Cloud Practitioner](https://github.com/user-attachments/assets/4a41a3e5-ab7f-4819-9d3b-d243fba6a364)](https://www.credly.com/badges/e1ee2820-a3f0-4f92-8225-52b876b56287/public_url)
 
