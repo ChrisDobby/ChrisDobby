@@ -3,16 +3,17 @@
 [LinkedIn](https://www.linkedin.com/in/chrisdobby/)&emsp;&emsp;[Bluesky](https://bsky.app/profile/chrisdobby.dev)&emsp;&emsp;[CV](https://cv.chrisdobby.dev)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
 
 ![Community Builder LinkedIn 1400px](https://github.com/user-attachments/assets/f9a7a87b-2735-4a74-aa6e-c5b439643ffd)
+<img width="120" height="120" alt="image (8)" src="" />
 
-[![AWS Certified Solutions Architect Pro](https://polywork-production.imgix.net/j5a8wootsgcsauypjzzoldalv3cz?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
+[![AWS Certified Solutions Architect Pro](https://github.com/user-attachments/assets/04b0be37-ebe6-443f-b2f4-c06d1fa78509)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
 [![AWS Certified Devops Engineer Pro](https://github.com/user-attachments/assets/65c282b1-b302-4f5b-afa6-d146703d82a9)](https://www.credly.com/badges/2619c23d-a69e-4d76-93db-3c57dd74d4e2/public_url)
 [![AWS Certified Gen AI Developer Pro](https://github.com/user-attachments/assets/5cb90a3a-bd04-4db7-972b-6c1c55f2b08e)](https://www.credly.com/badges/e49887e3-d2ac-455a-a873-08294e5a8f85/public_url)
 [![AWS Certified Gen AI Developer Pro early adopter](https://github.com/user-attachments/assets/dda150eb-9290-4742-8f4f-346c658fdfa5)](https://www.credly.com/badges/8354aa51-18fe-49ae-84ef-2e207771b2c5/public_url)
 [![AWS Advanced Networking – Specialty](https://github.com/user-attachments/assets/46a15286-01b0-4615-86f0-9eb08c33f680)](https://www.credly.com/badges/c7d28a34-fb3d-4f8b-b06d-63b46e7b8ef8/public_url)
 [![AWS Certified Security – Specialty](https://github.com/user-attachments/assets/93105c63-4f27-46dc-ac55-fb779d5d8c51)](https://www.credly.com/badges/f75ffd12-b357-4f54-a8e0-3afd943e368a/public_url)
 [![AWS Certification SME - Associate](https://github.com/user-attachments/assets/c04e133a-10c9-4f18-af9e-3e368e754747)](https://www.credly.com/badges/cf16035b-a40d-41a4-8d04-3703db9ea43d/public_url)
-[![AWS Certified Developer Associate](https://polywork-production.imgix.net/3sj4dg6nfswjlqzhe95zsgad2prp?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/c02613ec-ae37-4bcd-888b-1815159bc2a4/public_url)
-[![AWS Certified Solutions Architect Associate](https://polywork-production.imgix.net/mb5yt0io3edpt0468z521gv08kb4?ixlib=rails-4.2.0&w=60&auto=format&dpr=2)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
+[![AWS Certified Developer Associate](https://github.com/user-attachments/assets/83906e22-1b54-4d51-b04c-1d11e6a4a6b3)](https://www.credly.com/badges/c02613ec-ae37-4bcd-888b-1815159bc2a4/public_url)
+[![AWS Certified Solutions Architect Associate](https://github.com/user-attachments/assets/4537b85d-537f-4290-823c-ff9c6dd2fe30)](https://www.credly.com/badges/cbe0dba2-ba5b-4373-a768-25bdfbdd48ea/public_url)
 [![AWS Certified Machine Learning Engineer Associate](https://github.com/user-attachments/assets/beffa25e-2a30-4e15-b5c6-2350633a525c)](https://www.credly.com/badges/1d69786c-640b-43c8-9d09-36a38a9fb7c1/public_url)
 [![AWS Certified Data Engineer Associate](https://github.com/user-attachments/assets/02d78659-dd40-4f96-a589-eb9b25993ac7)](https://www.credly.com/badges/080e4a9c-4f8f-46b9-9f10-5eb97b50d22e/public_url)
 [![AWS Certified CloudOps Engineer Associate](https://github.com/user-attachments/assets/0ab1cacd-b02d-4cbb-b3ca-54d0879cdca7)](https://www.credly.com/badges/91b848b7-65ba-48c4-b673-2debaaa608f3/public_url)
