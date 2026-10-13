@@ -21,6 +21,7 @@
 [![AWS Certified Cloud Practitioner](https://github.com/user-attachments/assets/4a41a3e5-ab7f-4819-9d3b-d243fba6a364)](https://www.credly.com/badges/e1ee2820-a3f0-4f92-8225-52b876b56287/public_url)
 
 ### Speaking
+* [Orchestrating a workflow with Lambda - AWS ComSum 2026](https://www.youtube.com/watch?v=OQso5xPpQIU)
 * [Streamlining an event driven architecture - AWS ComSum 2025](https://youtu.be/9GhcckSaluY?si=zIuWoSqulN88TsLk)
 * [AWS No Code Challenge - AWS ComSum 2024](https://www.youtube.com/watch?v=plq0F90zKqI)
 * [Sessionize profile](https://sessionize.com/chrisdobby/)
