@@ -3,7 +3,6 @@
 [LinkedIn](https://www.linkedin.com/in/chrisdobby/)&emsp;&emsp;[Bluesky](https://bsky.app/profile/chrisdobby.dev)&emsp;&emsp;[CV](https://cv.chrisdobby.dev)&emsp;&emsp;[Strava](https://www.strava.com/athletes/chrisdobby)
 
 ![Community Builder LinkedIn 1400px](https://github.com/user-attachments/assets/f9a7a87b-2735-4a74-aa6e-c5b439643ffd)
-<img width="120" height="120" alt="image (8)" src="" />
 
 [![AWS Certified Solutions Architect Pro](https://github.com/user-attachments/assets/04b0be37-ebe6-443f-b2f4-c06d1fa78509)](https://www.credly.com/badges/a6313967-3803-4561-a384-6bed7f96f37f/public_url)
 [![AWS Certified Devops Engineer Pro](https://github.com/user-attachments/assets/65c282b1-b302-4f5b-afa6-d146703d82a9)](https://www.credly.com/badges/2619c23d-a69e-4d76-93db-3c57dd74d4e2/public_url)
