@@ -28,6 +28,7 @@
 * [AWS No Code Challenge](https://sessionize.com/s/chrisdobby/aws-no-code-challenge/96963)
   
 ### Articles
+* [A look at Customer Managed Runtimes. Let's run an LLM...](https://chrisdobby.dev/a-look-at-customer-managed-runtimes-lets-run-an-llm-c32b88d93bf8)
 * [Workflow orchestration with Lambda Durable Functions — part 2](https://chrisdobby.dev/workflow-orchestration-with-lambda-durable-functions-part-2-6b70f9a9e6ba)
 * [Workflow orchestration with Lambda Durable Functions — part 1](https://chrisdobby.dev/workflow-orchestration-with-lambda-durable-functions-part-1-3892a5a5a7aa)
 * [Localstack in VSCode](https://chrisdobby.dev/localstack-in-vscode-a8a9e8d53d10)
