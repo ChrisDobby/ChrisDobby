@@ -18,6 +18,8 @@
 [![AWS Certified CloudOps Engineer Associate](https://github.com/user-attachments/assets/0ab1cacd-b02d-4cbb-b3ca-54d0879cdca7)](https://www.credly.com/badges/91b848b7-65ba-48c4-b673-2debaaa608f3/public_url)
 [![AWS Certified AI Practitioner](https://github.com/user-attachments/assets/a1d2bae9-da0f-4efc-af0a-3c1c25ad66ac)](https://www.credly.com/badges/67fbd247-af14-4041-a915-7c259eea4966/public_url)
 [![AWS Certified Cloud Practitioner](https://github.com/user-attachments/assets/4a41a3e5-ab7f-4819-9d3b-d243fba6a364)](https://www.credly.com/badges/e1ee2820-a3f0-4f92-8225-52b876b56287/public_url)
+[![AWS Certified AI Business Strategist](https://github.com/user-attachments/assets/7474711f-e87f-45b2-91a1-7c8cb464c90f)](https://www.credly.com/badges/8ab22af7-afb6-4b5f-b7ac-c1030ee1b5b9/public_url)
+[![AWS Certified AI Business Strategist early adopter](https://github.com/user-attachments/assets/60187853-24f4-4df5-a6da-db8fdc44979c)](https://www.credly.com/badges/4edb9b41-95d3-4678-a411-eebfad2283a2/public_url)
 
 ### Speaking
 * [Orchestrating a workflow with Lambda - AWS ComSum 2026](https://www.youtube.com/watch?v=OQso5xPpQIU)
